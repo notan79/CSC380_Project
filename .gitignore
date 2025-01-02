@@ -10,3 +10,14 @@
 ./clean_all.ipynb
 ./Clean_Arrests_Data.ipynb
 ./Clean_Data_Neighborhood.ipynb
+
+./.ipynb_checkpoints/Clean_Arrests_Data-checkpoint.ipynb
+./.ipynb_checkpoints/Clean_Data_Neighborhood-checkpoint.ipynb
+./.ipynb_checkpoints/boxplot-checkpoint.ipynb
+./.ipynb_checkpoints/clean_all-checkpoint.ipynb
+./.ipynb_checkpoints/make_heatmap-checkpoint.ipynb
+./.ipynb_checkpoints/make_histograms-checkpoint.ipynb
+./.ipynb_checkpoints/make_random_data-checkpoint.ipynb
+./.ipynb_checkpoints/merge_data_test-checkpoint.ipynb
+./.ipynb_checkpoints/model-checkpoint.ipynb
+./.ipynb_checkpoints/run_merged_final_project-checkpoint.ipynb
