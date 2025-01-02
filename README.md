@@ -1,1 +1,0 @@
-[embded]https://github.com/notan79/CSC380_Project/blob/main/CSC_380_project_report.pdf[/embed]
