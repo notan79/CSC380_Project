@@ -1,2 +1,12 @@
 *.csv
 .DS_Store
+make_heatmap.ipynb
+make_histograms.ipynb
+make_random_data.ipynb
+merge_data_test.ipynb
+model.ipynb
+run_merged_final_project.ipynb
+boxplot.ipynb
+clean_all.ipynb
+Clean_Arrests_Data.ipynb
+Clean_Data_Neighborhood.ipynb
